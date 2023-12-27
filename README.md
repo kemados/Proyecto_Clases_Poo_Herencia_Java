@@ -1,0 +1,1 @@
+En este proyecto cambio la forma de utilizacion de los Oriented Object Programming, mezclando todo lo que tiene que ver con herencia, encapsulamiento, ademas de crear un videojuego basico que deberia de mejorar en su tiempo.
